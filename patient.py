@@ -27,7 +27,7 @@ pat_dict = {}
 @route('/')
 @route('/patient')
 def patient():
-    return '<b>Patient is working fine do somthing with it /create,/update,/delete</b>!'
+    return '<b>Please Try Again !!!! Patient is working fine do somthing with it /create,/update,/delete</b>!'
 
 @post('/patient')
 def create():
